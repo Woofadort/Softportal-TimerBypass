@@ -11,8 +11,8 @@
 [devmode-enable]: https://www.tampermonkey.net/faq.php#Q209
 [tampermonkey-link]: https://www.tampermonkey.net/index.php
 
-[![en][badge-en]][readme-ru]
-[![ru][badge-ru]][readme-en]
+[![en][badge-en]][readme-en]
+[![ru][badge-ru]][readme-ru]
 
 <!-- Disclaimer start -->
 # Disclaimer
