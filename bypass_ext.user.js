@@ -10,8 +10,8 @@
 // @grant        none
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=softportal.com
 // @homepageURL  https://github.com/Woofadort/Softportal-TimerBypass/
-// @updateURL    https://raw.githubusercontent.com/Woofadort/Softportal-TimerBypass/refs/heads/main/bypass_ext.js
-// @downloadURL  https://raw.githubusercontent.com/Woofadort/Softportal-TimerBypass/refs/heads/main/bypass_ext.js
+// @updateURL    https://raw.githubusercontent.com/Woofadort/Softportal-TimerBypass/refs/heads/main/bypass_ext.user.js
+// @downloadURL  https://raw.githubusercontent.com/Woofadort/Softportal-TimerBypass/refs/heads/main/bypass_ext.user.js
 // @supportURL   https://github.com/Woofadort/Softportal-TimerBypass/issues
 // ==/UserScript==
 
