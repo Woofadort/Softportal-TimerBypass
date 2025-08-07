@@ -9,9 +9,9 @@
 // @run-at       document-start
 // @grant        none
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=softportal.com
-// @homepageURL  https://github.com/Woofadort/Softportal-TimerBypass
-// @updateURL    https://raw.githubusercontent.com/Woofadort/Softportal-TimerBypass/master/bypass_ext.js
-// @downloadURL  https://raw.githubusercontent.com/Woofadort/Softportal-TimerBypass/master/bypass_ext.js
+// @homepageURL  https://github.com/Woofadort/Softportal-TimerBypass/
+// @updateURL    https://raw.githubusercontent.com/Woofadort/Softportal-TimerBypass/refs/heads/main/bypass_ext.js
+// @downloadURL  https://raw.githubusercontent.com/Woofadort/Softportal-TimerBypass/refs/heads/main/bypass_ext.js
 // @supportURL   https://github.com/Woofadort/Softportal-TimerBypass/issues
 // ==/UserScript==
 
